@@ -8,8 +8,8 @@
 
 To use this stopwatch, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
-2. Change directory to the project folder: `cd your-repo`
+1. Clone the repository: `git clone git@github.com:Nik0Sp/simple_stopwatch.git`
+2. Change directory to the project folder: `cd simple_stopwatch`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit `http://localhost:3000` to see the stopwatch in action.
